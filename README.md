@@ -1,88 +1,28 @@
-📊 Projeto – Limpeza de Dados de Tratamento de Água (Excel)
-📌 Sobre o Projeto
+# 📊 Projeto de Limpeza de Dados – Tratamento de Água (Excel)
 
-Este projeto tem como objetivo demonstrar o processo de limpeza, organização e padronização de dados utilizando o Microsoft Excel, a partir de uma base de dados bruta sobre tratamento de água.
+Este repositório contém um projeto prático de Data Cleaning (Limpeza de Dados), onde transformei uma base de dados de tratamento de água bruta e desorganizada em uma estrutura organizada, padronizada e pronta para análise, utilizando Microsoft Excel.
 
-O foco é aplicar boas práticas de Data Cleaning, documentar o processo e apresentar os resultados de forma clara e profissional.
+## 📁 Estrutura do Projeto
+CSV para visualização rápida no GitHub: csv / base_tratamento_agua.csv.csv
+Planilha completa com os dados originais: planilha_excel / planilha_tratada.xlsx:
+Documentando o processo de limpeza: pdf/ relatorio_limpeza_agua.pdf.pdf
+Capturas de tela para comparação visual. img / ados_originais_excel.png , base_tratada_excel.png
 
-🗂️ Estrutura do Projeto
+###🧹 O que foi realizado no tratamento:
+Padronização de Texto: Uniformização das colunas de cidades, estações de tratamento e turnos.
+Correção de Tipagem: Ajuste dos tipos de dados (datas e valores numéricos).
+Ajuste de Casas Decimais: Padronização de valores como pH, turbidez e cloro residual.
+Organização da Estrutura: Conversão da base em Tabela do Excel e organização das colunas.
+Validação dos Dados: Conferência visual e lógica para garantir consistência.
 
-O repositório contém os seguintes arquivos:
+####📈 Comparação Visual
 
-📄 Planilha Excel
+Abaixo, você pode ver a diferença entre a base bruta e a base tratada:
+Antes (Dados Brutos)
+![Antes](./img/dados_originais_excel.png)
+Depois (Dados Limpos e Formatados
+![Antes](./img/base_tratada_excel.png)
 
-Dados brutos
-
-Dados tratados e organizados
-
-📄 Arquivo CSV
-
-Base de dados final limpa (.csv)
-
-🖼️ Imagens
-
-Print da base antes da limpeza
-
-Print da base após a limpeza
-
-📄 Relatório em PDF
-
-Descrição simples do processo de limpeza realizado
-
-🧹 Etapas de Limpeza Realizadas
-
-Conversão da base em Tabela do Excel (Ctrl + T)
-
-Ajuste e validação de tipos de dados (datas e numéricos)
-
-Padronização de textos (cidades, estações e turnos)
-
-Ajuste de casas decimais
-
-Organização das colunas
-
-Verificação de inconsistências visuais e lógicas
-
-Documentação do processo em relatório PDF
-
-📊 Dados Trabalhados
-
-A base contém informações como:
-
-Data da coleta
-
-Estação de tratamento
-
-Cidade
-
-Turno
-
-Indicadores de qualidade da água (pH, turbidez, cloro residual, temperatura)
-
-Volume de água tratado
-
-🛠️ Ferramentas Utilizadas
-
-Microsoft Excel
-
-Limpeza e organização de dados
-
-Formatação e validação
-
-CSV
-
-Exportação da base limpa
-
-PDF
-
-Documentação do processo
-
-🎯 Objetivo
-
-Projeto com foco educacional, desenvolvido para:
-
-Praticar limpeza e tratamento de dados
-
-Consolidar conhecimentos em Excel
-
-Construir portfólio para vagas júnior / estágio em dados
+#####🛠️ Tecnologias
+Microsoft Excel: Limpeza, organização e formatação.
+GitHub: Hospedagem e documentação do projeto.
