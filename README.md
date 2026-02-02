@@ -4,21 +4,16 @@ Este repositório contém um projeto prático de Data Cleaning (Limpeza de Dados
 
 ## 📁 Estrutura do Projeto
 csv/
-
 base_tratamento_agua.csv — Base final limpa para visualização no GitHub
 
 planilha_excel/
-
 planilha_tratada.xlsx — Planilha com os dados originais e tratados
 
 pdf/
-
 relatorio_limpeza_agua.pdf — Documento descrevendo o processo de limpeza
 
 img/
-
 dados_originais_excel.png — Base antes da limpeza
-
 base_tratada_excel.png — Base após a limpeza
 
 ## 🧹 O que foi realizado no tratamento:
