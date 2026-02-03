@@ -4,15 +4,10 @@
 Este repositório contém um projeto prático de Data Cleaning (Limpeza de Dados), onde transformei uma base de dados de tratamento de água bruta e desorganizada em uma estrutura organizada, padronizada e pronta para análise, utilizando Microsoft Excel.
 
 ## 📁 Estrutura do Projeto
-csv/
- - base_tratamento_agua.csv — Base final limpa para visualização no GitHub
-planilha_excel/
- - planilha_tratada.xlsx — Planilha com os dados originais e tratados
-pdf/
- - relatorio_limpeza_agua.pdf — Documento descrevendo o processo de limpeza
-img/
- - dados_originais_excel.png — Base antes da limpeza
- - base_tratada_excel.png — Base após a limpeza
+1. csv/ base_tratamento_agua.csv — Base final limpa para visualização no GitHub
+2. planilha_excel/ planilha_tratada.xlsx — Planilha com os dados originais e tratados
+3. pdf/ relatorio_limpeza_agua.pdf — Documento descrevendo o processo de limpeza
+4. img/ dados_originais_excel.png — Base antes da limpeza - base_tratada_excel.png — Base após a limpeza
 
 ## 🧹 O que foi realizado no tratamento:
 1. Padronização de Texto: Uniformização das colunas de cidades, estações de tratamento e turnos.
